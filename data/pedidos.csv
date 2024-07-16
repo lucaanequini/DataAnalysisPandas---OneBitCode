@@ -1,0 +1,17 @@
+DataPedido,Regiao,Estado,Vendedor,Item,Unidades,PrecoUnidade
+7-Jul-2019,Norte,Amazonas,João Silva,Mesa,2,150.50
+10-Jul-2019,Sul,Rio Grande do Sul,Maria Souza,Cadeira,4,50.00
+15-Jul-2019,Sudeste,São Paulo,Pedro Lima,Sofá,1,800.00
+22-Jul-2019,Norte,Pará,João Silva,Cama,3,200.00
+29-Jul-2019,Nordeste,Bahia,Ana Santos,Guarda-roupa,2,450.00
+1-Ago-2019,Sudeste,Rio de Janeiro,Maria Souza,Cômoda,1,300.00
+8-Ago-2019,Centro-Oeste,Goiás,Pedro Lima,Espelho,5,75.00
+12-Ago-2019,Sul,Santa Catarina,Ana Santos,Mesa de Centro,2,120.00
+19-Ago-2019,Norte,Amazonas,João Silva,Estante,1,280.00
+21-Ago-2019,Sul,Rio Grande do Sul,Maria Souza,Criado-mudo,2,80.00
+28-Ago-2019,Sudeste,Minas Gerais,Pedro Lima,Poltrona,2,350.00
+3-Set-2019,Nordeste,Ceará,Ana Santos,Cabeceira,2,100.00
+10-Set-2019,Centro-Oeste,Mato Grosso,João Silva,Banco,4,50.00
+17-Set-2019,Sul,Paraná,Maria Souza,Luminária,3,60.00
+24-Set-2019,Sudeste,Espírito Santo,Pedro Lima,Tapete,2,120.00
+2-Out-2019,Norte,Rondônia,Ana Santos,Cortina,4,80.00
